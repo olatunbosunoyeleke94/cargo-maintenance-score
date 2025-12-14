@@ -65,7 +65,7 @@ fn calculate_score(days_inactive: i64, recent_downloads: u64) -> (u8, String) {
 
 async fn fetch_crate_data(name: &str) -> anyhow::Result<CrateMaintenance> {
     let client = reqwest::Client::builder()
-        .user_agent("cargo-maintenance-score/0.1 (+your-email-or-github)") // Update if desired
+        .user_agent("cargo-maintenance-score/0.1 (modeleke61@gmail.com)") // use email or github user url if desired
         .build()?;
 
     let url = format!("https://crates.io/api/v1/crates/{}", name);
