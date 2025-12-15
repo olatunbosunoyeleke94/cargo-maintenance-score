@@ -17,9 +17,11 @@ Built for the **Rust Africa Hackathon 2026 – Unmaintained Crates track**.
 
 ## Example Output
 
-<img width="1151" height="562" alt="Screenshot 2025-12-15 at 02 52 37" src="https://github.com/user-attachments/assets/49d02d59-b0bf-44fe-a23a-6a36a0fb2fa9" />
-<img width="1139" height="761" alt="Screenshot 2025-12-15 at 03 08 48" src="https://github.com/user-attachments/assets/8dd2cc3a-9c1f-4f68-a207-c92070c3f542" />
-<img width="741" height="360" alt="Screenshot 2025-12-15 at 03 09 28" src="https://github.com/user-attachments/assets/8fd42988-35b2-41f9-9325-c223139fe8a2" />
+<img width="705" height="755" alt="Screenshot 2025-12-15 at 03 09 11" src="https://github.com/user-attachments/assets/1893df5a-41ba-4888-92bf-7f675794b2f0" />
+<img width="1151" height="562" alt="Screenshot 2025-12-15 at 02 52 37" src="https://github.com/user-attachments/assets/ce3d1745-89a2-452e-910d-4a4adc4909b7" />
+<img width="1440" height="900" alt="Screenshot 2025-12-15 at 03 09 17" src="https://github.com/user-attachments/assets/a2693744-576b-4ad4-8956-b6910930b690" />
+<img width="1139" height="761" alt="Screenshot 2025-12-15 at 03 08 48" src="https://github.com/user-attachments/assets/85c3909a-24ae-45b8-89ef-4a8cec5b83ab" />
+
 
 
 ## Installation
