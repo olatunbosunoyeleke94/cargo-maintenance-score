@@ -1,7 +1,14 @@
 [package]
-name = "cargo-maintenance-score"
-version = "0.1.0"
-edition = "2024"
+name = "cargo-maintenance-score"  # Must match the available name
+version = "0.1.0"                 # 0.1.0 initial release
+edition = "2024"                  
+description = "A Cargo subcommand to detect unmaintained and risky dependencies with a health score"
+license = "MIT"                   # MIT
+repository = "https://github.com/olatunbosunoyeleke94/cargo-maintenance-score"
+keywords = ["cargo", "maintenance", "dependencies", "cli", "hackathon"]
+categories = ["development-tools", "command-line-utilities"]
+readme = "README.md"
+
 
 [dependencies]
 clap = { version = "4.5", features = ["derive"] }

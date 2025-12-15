@@ -133,8 +133,8 @@ async fn main() -> anyhow::Result<()> {
     let start = Instant::now();
     let mut results = Vec::new();
 
-    // Remove .take(20) below to scan ALL crates (recommended for final demo)
-    for (i, name) in crate_names.iter().take(20).enumerate() {
+    //scan ALL crates
+    for (i, name) in crate_names.iter().enumerate() {
         print!("{:>4}/{:<4} Fetching {}...", i + 1, total, name.cyan());
         match fetch_crate_data(name).await {
             Ok(data) => {
