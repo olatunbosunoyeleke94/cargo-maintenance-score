@@ -1,5 +1,5 @@
 [package]
-name = "cargo-maintenance-score"  # Must match the available name
+name = "cargo-maintenance-score"  
 version = "0.1.0"                 # 0.1.0 initial release
 edition = "2024"                  
 description = "A Cargo subcommand to detect unmaintained and risky dependencies with a health score"
